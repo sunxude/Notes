@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2345b269b315a8a9",
+        "id": "29c25acb1c95454d",
         "type": "tabs",
         "children": [
           {
-            "id": "c3a7ff4b69526a48",
+            "id": "7d442e4f41fbcb84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/栈.md",
+                "file": "C语言/链表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "栈"
+              "title": "链表"
             }
           }
         ]
@@ -209,19 +209,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c3a7ff4b69526a48",
+  "active": "7d442e4f41fbcb84",
   "lastOpenFiles": [
-    "链表.md",
+    "C语言/链表.md",
+    "C语言/指针.md",
+    "算法/空间复杂度.md",
     "C语言/栈.md",
+    "算法/时间复杂度.md",
+    "C语言/栈溢出.md",
     "C语言/退出方式.md",
-    "C语言/数据结构.md",
     "C语言/库.md",
     "C语言/进程间通信（IPC）.md",
     "C语言/函数参数.md",
     "C语言/多线程.md",
-    "C语言/大数组.md",
-    "C语言/栈溢出.md",
     "C语言/递归.md",
+    "C语言/大数组.md",
+    "算法",
+    "算法/数据结构.md",
     "2025-12-08.md",
     "未命名.md",
     "Excalidraw/Drawing 2025-10-20 10.37.16.excalidraw.md"
