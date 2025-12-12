@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "29c25acb1c95454d",
+        "id": "eea392421b29e373",
         "type": "tabs",
         "children": [
           {
-            "id": "7d442e4f41fbcb84",
+            "id": "4252d30266ec33c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/链表.md",
+                "file": "C语言/库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "链表"
+              "title": "库"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "644320c9a8608eac",
@@ -209,23 +208,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7d442e4f41fbcb84",
+  "active": "4252d30266ec33c3",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "C语言/库.md",
+    "C语言/进程间通信（IPC）.md",
+    "C语言/多线程.md",
+    "算法/数据结构.md",
     "C语言/链表.md",
+    "Excalidraw/Drawing 2025-12-12 09.09.44.excalidraw.md",
     "C语言/指针.md",
     "算法/空间复杂度.md",
     "C语言/栈.md",
     "算法/时间复杂度.md",
     "C语言/栈溢出.md",
     "C语言/退出方式.md",
-    "C语言/库.md",
-    "C语言/进程间通信（IPC）.md",
     "C语言/函数参数.md",
-    "C语言/多线程.md",
     "C语言/递归.md",
     "C语言/大数组.md",
     "算法",
-    "算法/数据结构.md",
     "2025-12-08.md",
     "未命名.md",
     "Excalidraw/Drawing 2025-10-20 10.37.16.excalidraw.md"
