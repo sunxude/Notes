@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "C语言/库.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/性能优化技术详解.md",
-                "mode": "source",
+                "file": "C语言/多线程.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "性能优化技术详解"
+              "title": "多线程"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "644320c9a8608eac",
@@ -227,24 +226,24 @@
   "active": "ad779d4b6b17f975",
   "lastOpenFiles": [
     "C语言/指针.md",
+    "C语言/链表.md",
+    "C语言/库.md",
+    "C语言/进程间通信（IPC）.md",
+    "C语言/函数参数.md",
+    "C语言/多线程.md",
+    "C语言/递归.md",
+    "C语言/大数组.md",
     "C语言/性能优化技术详解.md",
     "通信/CAN.md",
-    "C语言/库.md",
     "通信",
     "未命名.canvas",
-    "C语言/进程间通信（IPC）.md",
-    "C语言/多线程.md",
     "算法/数据结构.md",
-    "C语言/链表.md",
     "Excalidraw/Drawing 2025-12-12 09.09.44.excalidraw.md",
     "算法/空间复杂度.md",
     "C语言/栈.md",
     "算法/时间复杂度.md",
     "C语言/栈溢出.md",
     "C语言/退出方式.md",
-    "C语言/函数参数.md",
-    "C语言/递归.md",
-    "C语言/大数组.md",
     "算法",
     "2025-12-08.md",
     "Excalidraw/Drawing 2025-10-20 10.37.16.excalidraw.md"
