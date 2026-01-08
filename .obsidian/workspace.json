@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "栈溢出"
             }
+          },
+          {
+            "id": "74f017718529ea27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "644320c9a8608eac",
@@ -223,8 +236,10 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "ad779d4b6b17f975",
+  "active": "56acc35b307ce78c",
   "lastOpenFiles": [
+    "README.md",
+    "C语言/栈溢出.md",
     "C语言/函数参数.md",
     "C语言/指针.md",
     "C语言/栈.md",
@@ -238,7 +253,6 @@
     "C语言/递归.md",
     "算法/数据结构.md",
     "C和指针 带书签.pdf",
-    "C语言/栈溢出.md",
     "通信/CAN.md",
     "通信",
     "未命名.canvas",
