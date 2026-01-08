@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/指针.md",
+                "file": "C语言/栈溢出.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "指针"
+              "title": "栈溢出"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "644320c9a8608eac",
@@ -219,25 +220,24 @@
       "bases:创建新数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
   "active": "ad779d4b6b17f975",
   "lastOpenFiles": [
+    "C语言/函数参数.md",
+    "C语言/指针.md",
     "C语言/栈.md",
+    "C语言/大数组.md",
     "C语言/性能优化技术详解.md",
     "C语言/退出方式.md",
     "C语言/链表.md",
     "C语言/库.md",
     "C语言/进程间通信（IPC）.md",
-    "C语言/函数参数.md",
     "C语言/多线程.md",
     "C语言/递归.md",
-    "C语言/大数组.md",
     "算法/数据结构.md",
     "C和指针 带书签.pdf",
-    "C语言/指针.md",
     "C语言/栈溢出.md",
     "通信/CAN.md",
     "通信",
