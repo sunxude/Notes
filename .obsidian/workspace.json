@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "C语言/指针.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "指针"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "644320c9a8608eac",
@@ -224,33 +225,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "56acc35b307ce78c",
+  "active": "74f017718529ea27",
   "lastOpenFiles": [
-    "README.md",
-    "C语言/栈溢出.md",
-    "C语言/函数参数.md",
-    "C语言/指针.md",
-    "C语言/栈.md",
     "C语言/大数组.md",
-    "C语言/性能优化技术详解.md",
-    "C语言/退出方式.md",
-    "C语言/链表.md",
-    "C语言/库.md",
-    "C语言/进程间通信（IPC）.md",
-    "C语言/多线程.md",
+    "C语言/函数参数.md",
+    "C语言/多进程.md",
     "C语言/递归.md",
+    "学习路径.md",
+    "C语言/多线程.md",
+    "C语言/进程间通信（IPC）.md",
+    "C语言/库.md",
+    "C语言/链表.md",
+    "C语言/退出方式.md",
+    "C语言/性能优化技术详解.md",
+    "C语言/栈.md",
+    "C语言/栈溢出.md",
+    "C语言/指针.md",
+    "README.md",
     "算法/数据结构.md",
     "C和指针 带书签.pdf",
     "通信/CAN.md",
