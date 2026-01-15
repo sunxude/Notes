@@ -1,0 +1,17 @@
+- 克隆仓库：git clone git@192.168.0.201:sunxu/test.git
+- 创建一个新的分支并切换进去：git checkout -b sx_dev
+- 切换分支：git switch sx_dev 或者 git checkout sx_dev
+- 查看当前仓库的状态：git status
+- 将修改过的文件添加到暂存区域：git add 文件名 或者 git add .（全部添加）
+- 提交更改：git commit -m “提交信息”
+- 拉取：git pull或者git pull origin sx_dev(拉取分支)
+- 提交：git push或者git push origin sx_dev
+- 合并分支：git switch sx_dev , git merge feature , git push
+- 变基合并：git switch feate , git rebase origin/sx_dev , git merge feature
+- 删除分支：git branch -d sx_dev
+- 从远程仓库删除分支：git push origin --delete sx_dev
+- 查看提交历史：git log
+- 查看工作区和暂存区之间的差异：git diff
+- 查看暂存区和最后一次提交之间的差异：git diff --cached
+- 查看分支：git branch
+- 查看远程分支：git branch -r  （-a）查看所有本地和远程分支
